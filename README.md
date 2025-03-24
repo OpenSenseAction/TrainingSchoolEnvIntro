@@ -1,2 +1,2 @@
-# TrainingSchoolEnvIntro
-Info on env and coding setup for the OpenSense Training School on merging and application on opportunistic rainfall data.
+# Training school envioment and info on coding setup
+This repositories holds the installation instructions for the [OpenSense Training School on merging and application on opportunistic rainfall data](https://indico.scc.kit.edu/event/4626/) as well as some material for scientific python packages that will be used during the workshop. Please make sure that the installtion of the environment works on you machine and that you are familiar with the pthon tools we will use.
