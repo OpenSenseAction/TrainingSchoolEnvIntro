@@ -16,7 +16,7 @@ Follow the instructions according to your operating system.
     Note that it may take several minutes till conda calculates which package versions to download. After some minutes you will be presented with a list of Python packages that have to be downloaded. In case the installation does not start, you might need to select “yes” or press Return to start the download and installation.
 8. Activate the environment via the command *conda activate opensense_training*
 9. Clone the codebase for this intro with *git clone https://github.com/OpenSenseAction/TrainingSchoolEnvIntro.git*
-10. cd to the directory of the repository (*cd TrainingSchoolMergingApplication*)  
+10. cd to the directory of the repository (*cd TrainingSchoolEnvIntro*)  
 11. Start jupyterlab (the programming environment that we will use during the workshop) by executing the following command on the command line: *jupyter-lab --no-browser* copy one of the last two localhost URLs to your favorite web browser (Chrome is recommended for Jupyterlab, we have not tested with Edge but it should also work)
 12. Open one of the notebooks from scentific_python and execute the first few cells by clicking the play button at the top of the notebook. If all cells are executed without a red error message, you are setup!
     
